@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+* {
+    font-family: "Josefin Sans", sans-serif;
+}
+
+
+.header-img {
+    background-image: url(./images/Background\ Image.png);
+    /* height: 80vh; */
+    background-size: cover;
+}
+
+.bg-color {
+    background-color: #5956E9 !important;
+    padding: 0px;
+}
+
+.h2 h2 {
+    color: #5956E9
+}
+
+.app-feature {
+    background-image: url(./images/Rectangle\ 14.png);
+    background-size: cover;
+}
+
+.how-to-use-the-app {
+    background-image: url(./images/Rectangle\ 15.png);
+    background-size: cover; 
+    height: 450px;
+}
+
+.Our-reative-team {
+    margin-top: 250px;
+}
+
+.happy-customers {
+    background-image: url(./images/Rectangle\ 14.png);
+    background-size: cover;
+}
+
+.footer {
+    margin: 100px 0px;
+    padding: 110px 0px 0px;
+}
+
+.third {
+width: 62%;
+ }
